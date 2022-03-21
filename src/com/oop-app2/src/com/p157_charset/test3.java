@@ -26,6 +26,8 @@ public class test3 {
         System.out.println("hot-fix ");
         System.out.println("master  ");
 
+        System.out.println("hot-fix test");
+
         os.write("\r\n".getBytes(StandardCharsets.UTF_8));
         os.write('a');
         os.write('b');
