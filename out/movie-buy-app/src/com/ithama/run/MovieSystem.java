@@ -4,18 +4,12 @@ import com.ithama.bean.Business;
 import com.ithama.bean.Customer;
 import com.ithama.bean.Movie;
 import com.ithama.bean.User;
-import com.itheima.d3_static_test.Login;
-import com.sun.jdi.IntegerValue;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import java.math.BigDecimal;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
-
-import java.text.SimpleDateFormat;
-import java.util.*;
-import java.util.logging.SimpleFormatter;
 
 public class MovieSystem {
 
