@@ -21,6 +21,8 @@ public class test3 {
         os.write('c');
         os.write('b');
 
+
+        System.out.println("3");
         os.write("\r\n".getBytes(StandardCharsets.UTF_8));
         os.write('a');
         os.write('b');
